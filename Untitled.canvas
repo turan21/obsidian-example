@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"f2eada3c2243cc77","x":-380,"y":-80,"width":400,"height":400,"type":"file","file":"Untitled.canvas"},
+		{"id":"c76287bcf33f5b06","x":-305,"y":120,"width":250,"height":60,"type":"text","text":"jalksjdkasjd\n"}
+	],
+	"edges":[
+		{"id":"74189ae7d2f817f3","fromNode":"c76287bcf33f5b06","fromSide":"top","toNode":"f2eada3c2243cc77","toSide":"top"},
+		{"id":"8fe648ede2fc753b","fromNode":"c76287bcf33f5b06","fromSide":"top","toNode":"f2eada3c2243cc77","toSide":"right"}
+	]
+}
